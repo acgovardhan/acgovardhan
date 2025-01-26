@@ -1,5 +1,5 @@
 # 💫 About Me:
-🚀 About Me<br>- 🌱 I’m currently learning web-development<br>- 👯 I’m looking to collaborate on web/ai based projects <br>- 💬 Ask me about Javascript<br>- 📫 How to reach me: mail2acgovardgan@gmail.com
+🚀 About Me<br>- 🌱 I’m currently learning web-development<br>- 👯 I’m looking to collaborate on web/ai based projects <br>- 💬 Ask me about Programming<br>- 📫 How to reach me: mail2acgovardgan@gmail.com
 
 
 ## 🌐 Socials:
